@@ -1,2 +1,8 @@
 # MERN-Boilerplate
-MERN Boilerplate for future projects
+This is a MERN-stack boilerplate code for future projects.
+
+### This project contains the following:
+..* MongoDB, Mongoose Library for Object Modeling
+..* Express Framework
+..* ReactJS and Redux for state management
+..* NodeJS for backend
